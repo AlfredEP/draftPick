@@ -1,3 +1,3 @@
 # draftPick
-drafting hero for matchmaking
+drafting hero for matchmaking\n
 choose role first
